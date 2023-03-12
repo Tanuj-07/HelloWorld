@@ -1,11 +1,9 @@
 package com.apcs;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-import java.util.stream.Collectors;
 
-public class decToBinary {
+public class DecimalToBinary {
 
     public static void main(String[] args) {
         List<Integer> binary = new ArrayList<>();

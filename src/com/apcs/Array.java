@@ -2,7 +2,7 @@ package com.apcs;
 
 
 
-public class array {
+public class Array {
     public static void main(String[] args) {
         int[][] name  = { {1,2,3},
                           {4,5,6},

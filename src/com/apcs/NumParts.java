@@ -1,9 +1,8 @@
 package com.apcs;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
-public class numparts {
+public class NumParts {
     public static void main(String[] args) {
         Random x = new Random();
         int num = x.nextInt(1000);

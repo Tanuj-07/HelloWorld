@@ -3,12 +3,10 @@ package com.apcs;
 import java.awt.Color;
 import java.awt.Robot;
 import java.awt.AWTException;
-import java.awt.event.InputEvent;
 import java.awt.event.KeyEvent;
-import java.sql.SQLOutput;
 
 
-public class colorChecker {
+public class ColorChecker {
     public static void main(String[] args) throws AWTException {
         Robot rob = new Robot();
 // 60 && red < 90 && blue > 90 && blue > 55 && green > 48 && green < 55

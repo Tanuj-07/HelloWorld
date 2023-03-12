@@ -3,7 +3,7 @@ package com.apcs;
 import java.util.ArrayList;
 import java.util.List;
 
-public class arrayintersections {
+public class ArrayIntersections {
     public static void main(String[] args) {
 	int[] numsi = {1,2,3,8,9,10};
 	int[] numsj = {2,3,4,5,6,8,10};
